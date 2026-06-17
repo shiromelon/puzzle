@@ -1,0 +1,6 @@
+{
+  "name": "ショコラ・アトリエ (Choco Atelier)",
+  "description": "職人として美しく美味しいチョコをお客さまに届ける、極上のチョコ仕分け＆オーダーパズルゲーム。Web Audio APIによる心地よいサウンド、美麗なエフェクト、レシピ開発を搭載。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
